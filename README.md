@@ -231,11 +231,9 @@ Amazon-Sales-Dashboard/
 │
 ├── Amazon_Sales_Dashboard.pbix
 │
-├── data/
-│   └── Amazon_Sale_Report.csv
+├── Amazon_Sale_Report.csv
 │
-├── screenshots/
-│   └── overview.png
+├── overview.png
 │
 ├── README.md
 │
